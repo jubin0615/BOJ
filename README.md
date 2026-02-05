@@ -1,4 +1,4 @@
 # Baekjoon Algorithm Solution
 
-## 🛠 Tech Stack
+🛠 Tech Stack
 * **Language**: Java
