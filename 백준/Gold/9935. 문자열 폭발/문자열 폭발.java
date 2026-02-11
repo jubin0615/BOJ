@@ -32,8 +32,9 @@ public class Main {
             }
         }
 
-        if(sb.length()==0) System.out.println("FRULA");
-        else System.out.println(sb);
-
+        // if(sb.length()==0) System.out.println("FRULA");
+        // else System.out.println(sb);
+        System.out.println(sb.isEmpty() ? "FRULA" : sb.toString());
     }
 }
+
